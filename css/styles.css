@@ -504,7 +504,7 @@ margin-bottom: 8px;
     line-height: 24px; /* 150% */
     letter-spacing: 0.32px;
 }
-.text-portfolio:hover {
+  li:hover .text-portfolio {
     transform: translateY(0%);
 }
 
